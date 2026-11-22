@@ -8,9 +8,22 @@ This e-portfolio collects coursework, evidence and reflections from my TIS learn
 
 | Assignment | Evidence and learning record |
 | --- | --- |
+| **Assignment 1 — NALI 2026** | [AI video, selected posters, contribution and personal reflection](Assignment%201/README.md) |
 | **Assignment 2 — Industry Talk 1** | [From Developer to CEO: poster, reflection and references](Assignment%202/README.md) |
 
 ## Featured work
+
+### NALI 2026: AI in teaching and learning
+
+A six-member group video combines interviews with innovation teams, explanations of selected posters and individual reflections. My selected project is the AI Japanese Learning Assistant. My section examines personalised feedback, teacher involvement and the practical costs of educational AI.
+
+[Open Assignment 1](Assignment%201/README.md) · [Read my reflection](Assignment%201/REFLECTION.md)
+
+**Google Drive video link:**
+
+The link is intentionally blank while the final video is being uploaded.
+
+![AI avatar introduction with the selected NALI poster](Assignment%201/video-preview.jpg)
 
 ### From Developer to CEO
 
@@ -23,6 +36,15 @@ An A4 group poster about the relationship between software development, customer
 ## Portfolio structure
 
 ```text
+Assignment 1/
+  README.md                         Video overview, contribution and chapter guide
+  REFLECTION.md                     Personal learning, challenges and next steps
+  SOURCES.md                        Course sources, poster credit and AI disclosure
+  LINKEDIN-DRAFT.md                  Learning-post draft for review
+  NALI-2026-English-Subtitles.srt    English subtitles for the group video
+  video-preview.jpg                 Frame from the final edited video
+  interview-preview.jpg             Interview evidence from my section
+  poster-preview.jpg                Photograph of my selected NALI poster
 Assignment 2/
   README.md                         Assignment overview and learning outcomes
   TIS-Assignment-2-Final-Poster.pdf   Final poster supplied for this portfolio
@@ -34,4 +56,4 @@ Assignment 2/
 
 ## About the evidence
 
-The poster is group work. My portfolio notes focus on the preparation and review activities documented here, and credit the whole group for the final artifact. The source PDF is preserved without content changes. Third-party images, company branding and webinar materials remain the property of their respective owners.
+The video and poster are group work. My portfolio notes explain my own contribution and learning, and credit the whole group for the final artifacts. Assignment 1's Google Drive link is pending; Assignment 2's source PDF is preserved without content changes. Third-party poster content, company branding and webinar materials remain the property of their respective owners.

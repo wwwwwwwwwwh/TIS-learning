@@ -1,5 +1,7 @@
 *.pdf binary
 *.png binary
+*.jpg binary
 *.md text eol=lf
+*.srt text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
