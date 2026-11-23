@@ -4,23 +4,21 @@
 
 ## Final video
 
-**Google Drive video link:**
-
-*Link pending. This field is intentionally blank and will be updated after the video is uploaded.*
+**[Open the Group 3 video folder on Google Drive](https://drive.google.com/drive/folders/1PITcJZEaX9cXr2FnsT1wx4SGjZMSC09V?usp=drive_link)**
 
 | Detail | Information |
 | --- | --- |
 | Activity | Visit to New Academia Learning Innovation (NALI 2026) |
 | Event dates | 28–29 October 2026 |
 | Theme | Human–AI Synergy in Pedagogy |
-| Group | Group 3, six members |
+| Group | Group 3 - AG, six members |
 | Deliverable | Edited group video with interviews and personal reflections |
 | Final video | 33 minutes 5 seconds, 1280 × 720, MP4 |
 | My selected poster | AI Japanese Learning Assistant |
 
 ![My AI avatar introduction with the selected poster](video-preview.jpg)
 
-The MP4 will be hosted on Google Drive. This repository contains the project explanation, reflection and selected visual evidence. It does not contain the approximately 1 GB video or the raw recordings.
+The Google Drive folder above is the video-sharing destination. This repository contains the project explanation, reflection and selected visual evidence. It does not contain the approximately 1 GB video or the raw recordings.
 
 ## The task
 
@@ -48,7 +46,7 @@ Local AI infrastructure was discussed as a possible future approach to handling 
 
 ## Video chapter guide
 
-The times below refer to the final group export and can be used after the Drive link is added.
+The times below refer to the final group export shared through the linked Google Drive folder.
 
 | Start | Section |
 | --- | --- |
@@ -87,7 +85,7 @@ Wong Wen Hao, Chong Zi Jian, Abdullah Faiyaz Rawoot, Muhammad Aqil, Ahmed Khalid
 
 ## Submission and professional sharing
 
-After uploading the final MP4 to Google Drive, add its share link above and confirm that the lecturer can open it without requesting permission. The assignment brief requires each member to submit a PDF containing the video link through UTM E-learning, followed by GitHub submission one week after the E-learning submission.
+The Google Drive folder link is provided above. Confirm that the lecturer can open the folder and video without requesting permission. The assignment brief requires each member to submit a PDF containing the video link through UTM E-learning, followed by GitHub submission one week after the E-learning submission.
 
 The ePortfolio slides also require a LinkedIn report with work evidence and reflection. The included post is a draft, not a published LinkedIn post. This GitHub entry does not itself submit anything to E-learning or LinkedIn.
 

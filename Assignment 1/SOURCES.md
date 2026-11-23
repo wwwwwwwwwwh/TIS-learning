@@ -11,7 +11,7 @@ The teaching materials are cited for context and are not redistributed in this r
 
 3. **AI Japanese Learning Assistant: An AI-Enhanced Blended Learning Model for Personalized Japanese Language Education.** Poster displayed at NALI 2026. The poster photograph was supplied for the assignment and appears in `poster-preview.jpg`. The project, poster design and research findings belong to their original authors.
 4. **Recorded interview with Dr Yuek Li Ker and Dr Chee Beng Yang.** Group-supplied NALI interview footage and separate audio recording. The portfolio's discussion of objectives, development, empathy and privacy is based on the poster and this interview. Future plans are identified as proposals, rather than existing features.
-5. **NALI 2026 group video.** Prepared from the group's supplied introduction, interviews and reflections. `video-preview.jpg` and `interview-preview.jpg` are frames from the final corrected export. The shared video will be linked from Google Drive once uploaded.
+5. **NALI 2026 group video.** Prepared from the group's supplied introduction, interviews and reflections. `video-preview.jpg` and `interview-preview.jpg` are frames from the final corrected export. [Google Drive video folder](https://drive.google.com/drive/folders/1PITcJZEaX9cXr2FnsT1wx4SGjZMSC09V?usp=drive_link).
 
 The other member sections credit the innovations shown in the video: ElektroTutor AI, CinePrompt AI, ErgoCheck AI, physics-informed neural networks and MYFresh Logistics Crisis. Their poster content and demonstrations remain the work of the respective project teams.
 

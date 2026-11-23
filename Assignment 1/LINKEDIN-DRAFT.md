@@ -1,6 +1,6 @@
 # LinkedIn learning-post draft
 
-*Draft for Wong Wen Hao to review. It has not been published. The Google Drive video link is intentionally blank.*
+*Draft for Wong Wen Hao to review. It has not been published.*
 
 For our Technology and Information System assignment at Universiti Teknologi Malaysia, our group created a video about innovations explored during our NALI 2026 visit.
 
@@ -14,10 +14,10 @@ Thank you to the project teams and to my teammates: Chong Zi Jian, Abdullah Faiy
 
 Portfolio and reflection: https://github.com/wwwwwwwwwwh/TIS-learning/tree/main/Assignment%201
 
-Google Drive video link:
+Google Drive video folder: https://drive.google.com/drive/folders/1PITcJZEaX9cXr2FnsT1wx4SGjZMSC09V?usp=drive_link
 
 #NALI2026 #UTM #TechnologyAndInformationSystems #EducationalAI #StudentLearning
 
 ---
 
-Suggested image: `video-preview.jpg`, a frame showing the avatar and the selected poster. Add this project to Featured with a clear title and the repository link. Check the Drive sharing permissions before adding its URL to the post or repository.
+Suggested image: `video-preview.jpg`, a frame showing the avatar and the selected poster. Add this project to Featured with a clear title and the repository link. Check the Drive sharing permissions before publishing the post.

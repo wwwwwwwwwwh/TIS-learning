@@ -19,9 +19,7 @@ A six-member group video combines interviews with innovation teams, explanations
 
 [Open Assignment 1](Assignment%201/README.md) · [Read my reflection](Assignment%201/REFLECTION.md)
 
-**Google Drive video link:**
-
-The link is intentionally blank while the final video is being uploaded.
+**[Open the group video folder on Google Drive](https://drive.google.com/drive/folders/1PITcJZEaX9cXr2FnsT1wx4SGjZMSC09V?usp=drive_link)**
 
 ![AI avatar introduction with the selected NALI poster](Assignment%201/video-preview.jpg)
 
@@ -56,4 +54,4 @@ Assignment 2/
 
 ## About the evidence
 
-The video and poster are group work. My portfolio notes explain my own contribution and learning, and credit the whole group for the final artifacts. Assignment 1's Google Drive link is pending; Assignment 2's source PDF is preserved without content changes. Third-party poster content, company branding and webinar materials remain the property of their respective owners.
+The video and poster are group work. My portfolio notes explain my own contribution and learning, and credit the whole group for the final artifacts. Assignment 1's Google Drive folder is linked above; Assignment 2's source PDF is preserved without content changes. Third-party poster content, company branding and webinar materials remain the property of their respective owners.
